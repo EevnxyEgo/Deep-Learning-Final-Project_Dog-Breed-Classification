@@ -1,0 +1,12 @@
+Dog_breed_classification\frontend\node_modules
+Dog_breed_classification\best_model.keras
+Dog_breed_classification\final_model_resnetV2.keras
+Dog_breed_classification\final_model.keras
+Modelling\Model\scripts_2\experiments
+Modelling\Model\tfjs_model
+Modelling\Model\scripts_2\models
+Modelling\Model\models
+Modelling\Model\saved_models\fine_tuned_model
+Modelling\Model\experiments
+Modelling\Model\logs
+Modelling\Model\scripts_2\tensorflow\experiments
