@@ -1,0 +1,5 @@
+onnx==1.14.0
+onnxruntime==1.16.3
+onnx-graphsurgeon==0.5.2  # Update ke versi terbaru yang tersedia
+sng4onnx==1.0.1
+onnx2tf==1.10.0
